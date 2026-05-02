@@ -97,9 +97,9 @@ const syllabusData = [
             { story: "La fe de la viuda de Sarepta", verse: "1 Reyes 17:16", thought: "Dios multiplica lo que consagramos a Él." },
             { story: "Elías en el Monte Carmelo", verse: "1 Reyes 18:38", thought: "Jehová es el único Dios verdadero." },
             { story: "Elías es llevado al cielo", verse: "2 Reyes 2:11", thought: "La esperanza gloriosa de la vida eterna." },
+            { story: "La sanidad de Naamán el sirio", verse: "2 Reyes 5:14", thought: "La obediencia humilde trae sanidad." },
             { story: "El milagro del aceite de la viuda", verse: "2 Reyes 4:6", thought: "La fe abundante recibe bendición abundante." },
             { story: "El milagro del hacha flotante", verse: "2 Reyes 6:6", thought: "A Dios le importan todas nuestras necesidades." },
-            { story: "La sanidad de Naamán el sirio", verse: "2 Reyes 5:14", thought: "La obediencia humilde trae sanidad." },
             { story: "Jonás y el gran pez", verse: "Jonás 1:17", thought: "Nadie puede huir de la presencia ni del llamado de Dios." },
             { story: "La determinación de Daniel", verse: "Daniel 1:8", thought: "Mantener la santidad en medio de un mundo adverso." },
             { story: "Los tres jóvenes en el horno de fuego", verse: "Daniel 3:25", thought: "Cristo nos acompaña en medio de las pruebas." }
