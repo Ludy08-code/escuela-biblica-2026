@@ -4,7 +4,7 @@ const teacherPairs = [
     "Hna. Arely y Hna. Yessenia",
     "Hna. América y Hna. Mélida",
     "Hna. Ludy y Hna. Norma",
-    "Hna. Noemy y Hna. América"
+    "Hna. Noemi y Hna. América"
 ];
 
 // --- PLAN DE ESTUDIOS 2026 (NIÑOS 5-10 AÑOS) ---
@@ -126,21 +126,21 @@ const syllabusData = [
     },
     {
         month: "Julio",
-        icon: "👶",
-        theme: "¡Jesús ha llegado!",
-        themeColor: "theme-orange",
-        bgUrl: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=500&q=80",
+        icon: "💎",
+        theme: "Tesoros de Sabiduría",
+        themeColor: "theme-yellow",
+        bgUrl: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=500&q=80",
         lessons: [
-            { story: "La anunciación a María", verse: "Lucas 1:30", thought: "Sujeción a la voluntad de Dios, porque nada hay imposible para Él." },
-            { story: "El nacimiento de Jesús en Belén", verse: "Lucas 2:7", thought: "La humildad en la venida del Salvador del mundo." },
-            { story: "El anuncio a los pastores", verse: "Lucas 2:14", thought: "Las buenas nuevas de gran gozo son para todos." },
-            { story: "La visita de los magos de oriente", verse: "Mateo 2:10", thought: "Rendir la adoración que Cristo merece." },
-            { story: "Jesús en el templo a los doce años", verse: "Lucas 2:49", thought: "Dedicación a los negocios del Padre celestial." },
-            { story: "El ministerio de Juan el Bautista", verse: "Mateo 3:3", thought: "Preparar el camino para la manifestación de Cristo." },
-            { story: "El bautismo de Jesús", verse: "Mateo 3:16", thought: "El testimonio del Padre sobre su Hijo amado." },
-            { story: "La tentación de Jesús en el desierto", verse: "Mateo 4:4", thought: "La victoria sobre la tentación mediante la Escritura." },
-            { story: "El llamado de los primeros discípulos", verse: "Mateo 4:19", thought: "Dejarlo todo para seguir el llamado de Cristo." },
-            { story: "La elección de los doce apóstoles", verse: "Lucas 6:13", thought: "El privilegio y la responsabilidad del discipulado." }
+            { story: "El principio de la sabiduría", verse: "Proverbios 1:7", thought: "Respetar y amar a Dios es el primer paso para ser sabio." },
+            { story: "Atiende el consejo: Obediencia a los padres", verse: "Proverbios 6:20", thought: "Dios bendice a los niños que escuchan y obedecen a sus padres." },
+            { story: "Palabras que sanan: El poder de lo que decimos", verse: "Proverbios 15:1", thought: "Nuestras palabras pueden sanar o lastimar; elijamos hablar con amor." },
+            { story: "Labios veraces: El valor de decir la verdad", verse: "Proverbios 12:22", thought: "Dios ama la verdad y se agrada de las personas honestas." },
+            { story: "Un amigo en todo tiempo", verse: "Proverbios 17:17", thought: "Un amigo verdadero ama y ayuda en los buenos y malos momentos." },
+            { story: "La lección de la hormiga trabajadora", verse: "Proverbios 6:6", thought: "Ser diligentes y no perezosos en nuestras tareas agrada a Dios." },
+            { story: "Controlando nuestro enojo", verse: "Proverbios 16:32", thought: "Es de valientes aprender a controlar nuestras emociones con ayuda de Dios." },
+            { story: "El corazón alegre es buena medicina", verse: "Proverbios 17:22", thought: "La alegría que Dios nos da nos mantiene sanos y fuertes." },
+            { story: "Guardando nuestro corazón", verse: "Proverbios 4:23", thought: "Debemos proteger nuestros pensamientos y sentimientos, dejando que Dios nos guíe." },
+            { story: "Confiando en Dios con todo el corazón", verse: "Proverbios 3:5", thought: "Dios es infinitamente sabio y podemos confiar en que sus planes son los mejores." }
         ]
     },
     {
